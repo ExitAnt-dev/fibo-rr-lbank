@@ -22,7 +22,7 @@ https://render.com/deploy?repo=https://github.com/ExitAnt-dev/fibo-rr-lbank
 
 ## Before you deploy
 
-- **LBank account registered with the ExitAnt invite code `64JKW`.** At every start and before every new
+- **LBank account registered with an ExitAnt invite code (`64JKW`, `65LV9`, `65LVC` or `65LTW`).** At every start and before every new
   cycle the bot checks this with your own API key; without it, it will not trade.
 - **Futures API key** with trading permission (LBank has no API passphrase).
 - **Hedge (two-way) position mode** enabled in LBank Futures. The bot refuses to start in one-way mode.
